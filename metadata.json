@@ -1,0 +1,6 @@
+{
+  "name": "Mavric - Personal Finance & Scenario Planning",
+  "description": "Personal finance control and scenario planning workspace combining transaction tracking, goals, forecasting, scenario simulation, stress testing, and decision snapshots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
